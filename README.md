@@ -1,1 +1,1 @@
-# angularSpringEcommerce2
+This is a Ecommerce Project
